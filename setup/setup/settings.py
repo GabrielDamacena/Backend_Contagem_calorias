@@ -137,8 +137,6 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-GEMINI_API_KEY = "AIzaSyBinY-QCQsmXnCfya8lMIIq1fdZvwXgsjw"
-
 # Configurações de arquivos de mídia
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
